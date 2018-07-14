@@ -9,8 +9,12 @@ Commit and track your work history in a new GitLab repo. Once finished email the
 SETUP THE PROJECT:
 -clone the repo
 -execute this in your terminal in the repo location:-
+
+
 $ npm i
+
 $ chmod a+x store
+
 $ npm run build
 
 
