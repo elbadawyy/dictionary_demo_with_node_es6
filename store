@@ -1,0 +1,7 @@
+#! /bin/bash
+actionName=$1
+keyName=$2
+valueName=$3
+
+node dist/store.js $actionName $keyName $valueName
+
