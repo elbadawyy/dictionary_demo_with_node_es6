@@ -7,7 +7,9 @@ The client should be a standalone terminal tool.
 Commit and track your work history in a new GitLab repo. Once finished email the link to your repo.
 
 SETUP THE PROJECT:
+
 -clone the repo
+
 -execute this in your terminal in the repo location:-
 
 
