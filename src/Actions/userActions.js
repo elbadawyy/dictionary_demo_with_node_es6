@@ -4,7 +4,6 @@ import * as DatabaseActions from './databaseActions'
 
 
 export function addKeyAndName(dictionary, keyName, ValueName) {
-    console.log("ddddddd==>", dictionary)
     dictionary[keyName] = ValueName;
     DatabaseActions.updateJsonObject(dictionary);
 }
